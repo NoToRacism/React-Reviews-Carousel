@@ -25,8 +25,8 @@ Technologies Used:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory-name>
+    git clone <https://github.com/NoToRacism/React-Reviews-Carousel>
+    cd <https://github.com/NoToRacism/React-Reviews-Carousel>
     ```
 2.  **Install dependencies:**
     ```bash
