@@ -2,6 +2,8 @@
 
 An interactive component built with React to display and cycle through user reviews or testimonials. Users can navigate sequentially using previous/next buttons or view a random review with the "Surprise Me" button.
 
+**[Live Demo](https://reviewcarouselnoto.netlify.app/)**
+
 This component showcases reviews with a clean, card-based UI. Users can easily browse reviews sequentially or jump to a random one.
 
 Key features include:
