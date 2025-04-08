@@ -4,6 +4,9 @@ An interactive component built with React to display and cycle through user revi
 
 **[Live Demo](https://reviewcarouselnoto.netlify.app/)**
 
+![Project Screenshot1](https://github.com/user-attachments/assets/a46aafc7-440f-4258-b192-1fee20f8d4f4)
+![Project Screenshot2](https://github.com/user-attachments/assets/81c45c8e-3cfd-43e7-b598-20f2e46e4d80)
+
 This component showcases reviews with a clean, card-based UI. Users can easily browse reviews sequentially or jump to a random one.
 
 Key features include:
